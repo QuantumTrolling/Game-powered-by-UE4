@@ -13,4 +13,4 @@ Walkthrough:
 ![](Screen's/about.png)
 
 3. And there you can see peace of gameplay:
-4. ![](Screen's/gameplay.png)
+![](Screen's/gameplay1.png)
