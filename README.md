@@ -2,3 +2,9 @@
 Introduction:
 
 There will be some text
+
+Walkthrough:
+
+
+1. Main menu:
+![](Screen's/menu.png)
