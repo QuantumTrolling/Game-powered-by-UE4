@@ -3,11 +3,8 @@ Introduction:
 
 This project it's a short game, which powered by "Unreal Engine 4". I made this game on subject “fundamental of programming”.
 
-
-
-There will be some text
-
 Walkthrough:
+
 ![](Screen's/WalkingthroughtShort.gif)
 
 1. Main menu:
