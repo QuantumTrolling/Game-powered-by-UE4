@@ -13,7 +13,9 @@ In conclusion, I wanted to add that it was a wonderfull experience for me in thi
 
 03/06/2022
 
-Walkthrough:
+Project description:
+
+Peace of walkthrough:
 
 ![](Screen's/WalkingthroughtShort.gif)
 
