@@ -18,3 +18,15 @@ Walkthrough:
 
 3. And there you can see peace of gameplay:
 ![](Screen's/gameplay1.png)
+
+4.
+![](Screen's/gameplay2.png)
+
+5.
+![](Screen's/gameplay3.png)
+
+6.
+![](Screen's/gameplay4.png)
+
+7.
+![](Screen's/gameplay5.png)
