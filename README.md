@@ -23,10 +23,4 @@ Walkthrough:
 ![](Screen's/gameplay2.png)
 
 5.
-![](Screen's/gameplay3.png)
-
-6.
-![](Screen's/gameplay4.png)
-
-7.
 ![](Screen's/gameplay5.png)
