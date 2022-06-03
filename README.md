@@ -3,6 +3,10 @@ Introduction:
 
 This project it's a short game, which powered by "Unreal Engine 4". I made this game on subject “fundamental of programming”.
 
+I maid this game as some kind of experiment, for experience and to increase my skills in "object orint programming". So, this project include as "Blueprint classes" and "C++ classes". Moustly, the mechanics of the game are implemented through "Blueprints".
+
+All 3D models with their animations in this project created by me. 
+
 Walkthrough:
 
 ![](Screen's/WalkingthroughtShort.gif)
