@@ -3,9 +3,9 @@ Introduction:
 
 This project it's a short game, which powered by "Unreal Engine 4". I made this game on subject “fundamental of programming”.
 
-I maid this game as some kind of experiment, for experience and to increase my skills in "object orint programming". So, this project include as "Blueprint classes" and "C++ classes". Moustly, the mechanics of the game are implemented through "Blueprints".
+I maid this game as some kind of experiment, for experience and to increase my skills in "object orint programming". So, this project include as "Blueprint classes" and "C++ classes". Moustly, the mechanics of the game are implemented through "Blueprints". In "Blueprints" I mainly used events, which based on overlapping some volumes by other actors.
 
-In "Blueprints" I mainly used events, which based on overlapping some volumes by other actors.
+A few words about gameplay. The player controls the cheracter form third person view. The location is a foggy labyrinth with enemies. The main goal of the player it's "find a way out".
 
 All 3D models with their animations in this project created by me. Other conten like sounds, background music, background picuter in main menu are taken from verified sources.
 
